@@ -1,2 +1,0 @@
-Thats my first file for TestGit.
-Thats modified one.
